@@ -1,0 +1,19 @@
+# Core Data Processing
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+plotly>=5.0
+
+# Machine Learning
+scikit-learn>=1.2
+scipy>=1.9
+
+# Time Series Forecasting
+prophet>=1.1
+cmdstanpy>=1.0
+
+# Notebook Environment
+jupyter>=1.0
+notebook>=6.5
